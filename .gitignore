@@ -1,0 +1,4 @@
+.editorconfig
+sim.perf
+sim.debug
+inputs/*
